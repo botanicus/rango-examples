@@ -1,0 +1,3 @@
+h1. About
+
+Just example application for "Rango":http://github.com/botanicus/rango framework.
