@@ -1,3 +1,12 @@
 h1. About
 
 Just example application for "Rango":http://github.com/botanicus/rango framework.
+
+h1. Usage
+
+Just initialize the git submodules:
+
+<pre>
+git submodule init
+git submodule update
+</pre>
